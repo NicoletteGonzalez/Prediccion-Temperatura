@@ -22,7 +22,7 @@ def user_input_features():
           }
 
 
-      features = pd.DataFrame(user_input_data, index=[0])
+    features = pd.DataFrame(user_input_data, index=[0])
 
   return features
 
