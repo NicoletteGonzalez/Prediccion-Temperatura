@@ -24,7 +24,7 @@ def user_input_features():
 
     features = pd.DataFrame(user_input_data, index=[0])
 
-  return features
+    return features
 
 df = user_input_features()
 datos =  pd.read_csv(CityTemperatures.csv', encoding='latin-1')
