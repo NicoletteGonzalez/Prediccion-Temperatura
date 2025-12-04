@@ -4,7 +4,7 @@ import pandas as pd
 
 st.write(''' # Prediccion de Temperatura ''')
 
-st.image("Imagenmexico.jpg", caption="Predicción de temperatura en alguna ciudad de Mexico.")
+st.image("Imagenmexico.jpeg", caption="Predicción de temperatura en alguna ciudad de Mexico.")
 
 st.header('Datos')
 
